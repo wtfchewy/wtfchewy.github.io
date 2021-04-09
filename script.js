@@ -6,7 +6,7 @@ let particles = [];
 let targets = [];
 const lerp = (t, v0, v1) => (1 - t) * v0 + t * v1;
 const fov = 2000;
-const viewDistance = 200;
+const viewDistance = 50;
 let targetRotationY = 0.5;
 let rotationY = 0.5;
 let speed = 20;
