@@ -9,7 +9,7 @@ const fov = 2000;
 const viewDistance = 200;
 let targetRotationY = 0.5;
 let rotationY = 0.5;
-let speed = 40;
+let speed = 20;
 let animFrame;
 const texts = [
 'wtfchewy'];
