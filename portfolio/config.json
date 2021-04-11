@@ -1,0 +1,14 @@
+[
+ {
+  "username": "wtfchewy",
+  "name": "Chewy",
+  "userimg": "https://avatars.githubusercontent.com/u/52513072?v=4",
+  "sort": "created",
+  "order": "asc",
+  "includeFork": false,
+  "theme": "dark.css",
+  "types": [
+   "all"
+  ]
+ }
+]
